@@ -1,4 +1,6 @@
 # Practic
 Nothing_here
 Practice push workflow by Your-Name
-Created by NAME 1 and NAME2
+Created By NAME1
+on develop branch for practice
+
